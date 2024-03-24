@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanbasora
-- 👀 I’m interested in linux servers and python automation.
+- 👀 I’m interested in linux and python automation.
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
